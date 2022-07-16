@@ -1,0 +1,24 @@
+{
+  "name": "bulario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indianous/bulario.git"
+  },
+  "author": "João Victor do Nascimento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indianous/bulario/issues"
+  },
+  "homepage": "https://github.com/indianous/bulario#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "puppeteer": "^15.4.0"
+  }
+}
