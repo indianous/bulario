@@ -5,7 +5,7 @@ async function startBrowser(){
     try {
         console.log('abrindo o navegador...');
         browser = await puppeteer.launch({
-            headless: false,
+            headless: true,
         });
     } catch (error) {
         console.log('Não foi possível criar uma instância do navegador => :', error);
