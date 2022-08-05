@@ -20,6 +20,8 @@
   "dependencies": {
     "dotenv": "^16.0.1",
     "download-pdf": "^0.1.6",
-    "puppeteer": "^15.4.0"
+    "fs": "^0.0.1-security",
+    "puppeteer": "^15.4.0",
+    "request-promise-native": "^1.0.9"
   }
 }
