@@ -12,5 +12,6 @@ Tecnologias utilizadas:
 - [ ] Ao invés de extrair somente um link de download extrair todos os links da página.
 - [ ] Quando ele tiver algum problema no download de algum arquivo, utilizar o próximo link.
 - [ ] Ter um tempo máximo para tentar o download, se não utilizar o próximo link.
+- [ ] Utilizar a biblioteca node-qrcode para gerar as imagens.
 
 Desenvolvido por: João Victor do Nascimento.
